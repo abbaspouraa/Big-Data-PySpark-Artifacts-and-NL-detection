@@ -1,0 +1,25 @@
+Version: Oxygen.1a Release (4.7.1a)
+
+OS: Linux, v.4.9.0-3-amd64, x86_64 / gtk 2.24.31
+
+class ImageModel(models.Model):
+
+ &lt;dataItem aggregate="none" name="Order number"…
+
+  org.testng.TestNG testng.xml
+
+- Unknown tag (c:if).
+
+int count = 1
+
+log4j.rootLogger=INFO, file
+
+@EnableTransactionManagement( mode = AdviceMode.ASPECTJ )
+
+* @version YOUR VERSION HERE
+
+Latest version of Denodo -> 5.5 win 
+
+my pom.xml:
+
+  cpds.setMaxConnectionAge() <- its not recognized by the intellisense

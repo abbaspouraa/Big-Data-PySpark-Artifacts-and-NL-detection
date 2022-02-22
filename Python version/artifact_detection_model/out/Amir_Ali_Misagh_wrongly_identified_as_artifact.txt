@@ -1,0 +1,37 @@
+          // what i tried
+
+          // also tried this
+
+    // log some relevant information from log annotation and pjp
+
+        // other code...
+
+    EVERE: Unable to create initial connections of pool.
+
+Line 14:  error: cannot find symbol 
+
+Line 17:  error: cannot find symbol 
+
+Line 18:  error: cannot find symbol 
+
+Line 26:  error: cannot find symbol 
+
+Line 27:  error: cannot find symbol 
+
+5 errors 
+
+     //this is where I should maintain those entries that are in fact duplicated
+
+     // in both tempList and result
+
+//this line returns - UTC
+
+2: Change Bin to Object
+
+Cons should create Pairs (A1,A2),(B1,B2),(C1,C2), etc... (The order of the pair is a requirement).  
+
+ * @return the name of the service ("cacheProxyTest")
+
+// Here I need to write the code which takes the user to PMotion.java
+
+["This question is just informal and thus I cannot provide any sort of MWE/example/...

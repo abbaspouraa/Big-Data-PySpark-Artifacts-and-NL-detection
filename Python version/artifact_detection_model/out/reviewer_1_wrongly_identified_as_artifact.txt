@@ -1,0 +1,29 @@
+     Download 1.7.8, 2.0.6 community edition from: http://orientdb.com/download/
+
+     Run console: ../orientdb-community-1.7.8/bin/console.bat
+
+     Run  ../orientdb-community-1.7.8/bin/dserver.bat notice server start with no exception. Stop it.
+
+     Copy directory: orientdb-community-1.7.8/databases into: ../orientdb-community-2.0.6/databases
+
+     Run  ../orientdb-community-2.0.6/bin/dserver.bat notice exception:
+
+Try to upgrade this to netty 4.1.15.
+
+`release 0.17.2`
+
+1. `Mono.just("hello").subscribe()`
+
+`Windows`
+
+```
+
+This is due to https://github.com/spring-projects/spring-security-oauth/blob/b055772adbb9c10497b1077a0480bf2c2649fb04/spring-security-oauth2/src/main/java/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java#L166.
+
+site war show blank page, nothing in the log
+
+the reason: spring application context was not set
+
+There was 1 failure:
+
+version:redisson-2.2.9
